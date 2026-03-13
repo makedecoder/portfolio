@@ -188,7 +188,7 @@ const App = () => {
                 <MapPin size={16} /> Sector-63, Noida (UP)
               </span>
               <a 
-                href="https://in.linkedin.com/in/abhishek-baral-b4885a210" 
+                href="https://in.linkedin.com/in/makedecoder"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-[#2a9d8f] transition-colors"
